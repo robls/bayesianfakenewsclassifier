@@ -11,7 +11,7 @@ Twitter, which has millions of active users and allows the collection of informa
 database through libraries specific for this purpose. From the data collected from this
 social network, it is possible to analyze objects of these data through various algorithms
 in the computer literature, among which is the Naive Bayes classifier, commonly used in
-the classification of textual documents. In this sense, this paper aims to present a
+the classification of textual documents. In this sense, this project aims to present a
 classifier capable of detecting fake news, having as input a database composed of news
 collected on the social network Twitter. Initially, we collected and stored the tweets that
 will be analyzed and, from then on, the Naive Bayes classifier was used in the experiment
